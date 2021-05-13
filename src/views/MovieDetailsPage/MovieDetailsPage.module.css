@@ -1,0 +1,61 @@
+.section {
+  padding: 20px 0px;
+}
+
+.button {
+  height: 35px;
+  padding: 5px 15px;
+}
+
+.movieThumb {
+  padding: 15px 0;
+  display: flex;
+  box-shadow: 0px 6px 5px -3px grey;
+}
+
+.poster {
+  width: 30%;
+}
+
+.movieInfo {
+  padding: 0 15px;
+}
+
+.subtitle,
+.userScore,
+.overview {
+  margin-top: 20px;
+}
+
+.genres {
+  margin-top: 15px;
+  display: flex;
+  list-style: none;
+}
+
+.genreItem {
+  margin-right: 10px;
+}
+
+.addInfo {
+  padding: 15px 0;
+  box-shadow: 0px 6px 5px -3px grey;
+}
+
+.addInfoList {
+  padding-left: 20px;
+}
+
+.link {
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.activeLink {
+  color: rgb(255, 55, 0);
+}
+
+.link:hover,
+.link:focus {
+  text-decoration: underline;
+}

@@ -1,0 +1,15 @@
+.section {
+  padding: 20px 0px;
+}
+.list {
+  padding-left: 20px;
+}
+
+.author {
+  margin-top: 15px;
+  font-weight: bold;
+}
+
+.content {
+  margin-top: 15px;
+}

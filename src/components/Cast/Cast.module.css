@@ -1,0 +1,13 @@
+.section {
+  padding: 20px 0px;
+}
+
+.img {
+  width: 150px;
+}
+
+.img,
+.actorName,
+.charcter {
+  margin-top: 15px;
+}
